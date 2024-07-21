@@ -1,0 +1,12 @@
+h1{
+      color:Orange;
+      font-size:10px;
+        }
+button{
+  width:30px;
+  transition:width 2s;
+}
+button:hover{
+  background-color:green;
+  width: 45px;
+}
